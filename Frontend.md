@@ -1,7 +1,29 @@
 # Blubito's Learning Path 📚
 
-# Level Junior 1
+# Quick start
 
+If you find all of the resourcess here somewhat difficult to track or navigate through, you can just go through the couple of steps we have for you here. You can structure your learning as we have ordered the resources here 🤓
+
+1) Start with Traversy Media's Crash courses so you get a basic overview as fast as possible.
+- HTML Crash Course For Absolute Beginners https://www.youtube.com/watch?v=UB1O30fR-EE&t=3s
+- CSS Crash Course For Absolute Beginners https://www.youtube.com/watch?v=yfoY53QXEnI
+- JavaScript Crash Course For Beginners https://www.youtube.com/watch?v=hdI2bqOjy3c
+
+2) Go through our own internal course to connect everything from the crash courses about HTML & CSS
+- Blubito HTML & CSS Basics Jun 2022 https://web.microsoftstream.com/channel/8d2ca42b-0b0b-4fc4-ac10-9cf2f44575be (you need your Blubito account here)
+  - It's an internal course
+  - We take a look at some more specific points in addition to everything basic
+
+3) JavaScript - use our udemy account to start your journey in the JS world
+- The Complete JavaScript Course 2023: From Zero to Expert! https://www.udemy.com/course/the-complete-javascript-course/
+
+4) TypeScript - extend your JS knowledge with TypeScript (and we always use TS in our projects ;) )
+- Understanding TypeScript - 2023 Edition https://www.udemy.com/course/understanding-typescript/
+
+
+
+# Detailed resources
+Here you can find a little bit more resources and details on what we expect from you to know and manage to use.
 
 ## 01. HTML & CSS first steps
 
@@ -117,12 +139,6 @@ Traversy Media:
 **🧠 More resources**
 TBD
 
-
-
-
-
-
-# Level Junior 2
 
 ## 04 HTML Pt. 2 Go deeper
 **🤝 What we exepct from you to know and understand**
