@@ -1,4 +1,4 @@
-# Blubito's Learning Path 📚
+# Blubito's FE Resources 📚
 
 # Quick start
 
