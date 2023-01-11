@@ -20,7 +20,10 @@ Understand how VS Code works
 
 
 ### 📘 Terminal/Command Line
-Know the basics of working with terminal:
+Depending on your role and division (FE/BE/DevOps) you will need to use the terminal/cmd more or less. At this point, you need to know what this means and be able to do basic actions like navigating through file structure, opening files with different programs, running scripts, etc.
+
+- Command Line Crash Course https://www.youtube.com/watch?v=yz7nYlnXLfE 
+  - We recommend to **at least** go thorugh `1:50 - 19:55`
 - 15+ Terminal Commands Every Developer Must Know https://www.youtube.com/watch?v=CV-ven_rxhw
 
 
@@ -38,7 +41,7 @@ Understand how git works, what's: repository, branch, pushing, pulling, commit m
 
 ### 📘 HTML & CSS
 
-**🤝 What we exepct from you to know and understand**
+**🤝 What we expect from you to know and understand**
 - HTML
   - Most used tags
   - Semantics
