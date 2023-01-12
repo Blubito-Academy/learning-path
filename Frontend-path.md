@@ -88,13 +88,64 @@ Here you can understand the universal basics of programming before going into Ja
 Here you can take any "big" course so you understand the basics of JS. We have linked a course that we think covers the most important parts in a nice and understandable way.
 
 **🤝 What we exepct from you to know and understand**
-- Syntax
+## JS fundamentals
 - Data types
-- Objects
+- Scope
+  - global, function
+  - var, let, const
+  - hoisting
+- Comparisons
+- Type conversion, particularly to boolean
+- Logical Operators
+- Conditions
+- Logging and Debugging
+
+## Functions
+- return values of functions
+- null vs. undefined
+- conditional returns
+- parameters & their scope
+- default params
+- destructuring parameters
+- rest operator
+- callback functions
+
+## Objects
+- creating and manipulating objects (adding properties, deleting properties, extracting properties)
+- nesting objects and objects with functions
+- understanding referential vs. primitive types
+- copying objects
+- spread operator
+- destructuring objects and setting default values
+- iterating over object properties/values
+- conditional properties
+- computed properties
+
+## Working with iterables
 - Arrays
-- Functions
-- Asyncronous JS - Promises, Async/Await
+  - creating and manipulating arrays (adding elements, removing elements, finding elements, splitting arrays, joining arrays)
+  - copying arrays
+- Loops (for-in vs. for of)
+- map, filter, reduce
+  - learn when to use map, filter and reduce
+  - functional vs. procedural programming
+
+## Misc
+- Asynchronous JS
+  - creating promises
+  - then and callbacks vs. async/await syntax
+  - understanding the event loop
 - Error handling
+- Code splitting
+  - ES modules vs. CommonJS modules
+  - dynamic asynchronous imports
+- Closure
+  - understanding what problems the concept solves
+- DOM
+  - understanding the relationship between HTML and the DOM
+  - finding elements in the DOM
+  - attaching and removing event-listeners through the DOM
+  - adding to and removing elements from the DOM
 
 
 **⭐ Plan**
