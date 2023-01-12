@@ -3,7 +3,7 @@
 ## What is this?
 This page is a **guide** for starting to learn to be a frontend developer. The topics are defined in such order that makes most sense going in a straight path from one topic to the next one. If you already have knowledge for specific topic - skip it directly and go to the next one. The resources that we have provided are mainly a reference points, you're free to use whatever resource/lesson/tutorial/etc. you like.
 
-## 📚 Topics
+## 📚 Topics - Introduction and basics
 
 ### 📘 Programs
 Install these programs:
@@ -88,7 +88,8 @@ Here you can understand the universal basics of programming before going into Ja
 Here you can take any "big" course so you understand the basics of JS. We have linked a course that we think covers the most important parts in a nice and understandable way.
 
 **🤝 What we exepct from you to know and understand**
-## JS fundamentals
+
+**JS fundamentals**
 - Data types
 - Scope
   - global, function
@@ -100,7 +101,7 @@ Here you can take any "big" course so you understand the basics of JS. We have l
 - Conditions
 - Logging and Debugging
 
-## Functions
+**Functions**
 - return values of functions
 - null vs. undefined
 - conditional returns
@@ -110,7 +111,7 @@ Here you can take any "big" course so you understand the basics of JS. We have l
 - rest operator
 - callback functions
 
-## Objects
+**Objects**
 - creating and manipulating objects (adding properties, deleting properties, extracting properties)
 - nesting objects and objects with functions
 - understanding referential vs. primitive types
@@ -121,7 +122,7 @@ Here you can take any "big" course so you understand the basics of JS. We have l
 - conditional properties
 - computed properties
 
-## Working with iterables
+**Working with iterables**
 - Arrays
   - creating and manipulating arrays (adding elements, removing elements, finding elements, splitting arrays, joining arrays)
   - copying arrays
@@ -130,7 +131,7 @@ Here you can take any "big" course so you understand the basics of JS. We have l
   - learn when to use map, filter and reduce
   - functional vs. procedural programming
 
-## Misc
+**Misc**
 - Asynchronous JS
   - creating promises
   - then and callbacks vs. async/await syntax
@@ -181,3 +182,64 @@ Understand how TypeScript (TS) works and how you can use it to write better and 
 
 - TypeScript Speedrun: Crash Course for Beginners https://www.youtube.com/watch?v=YmxwicpROps
 - Understanding TypeScript https://www.udemy.com/course/understanding-typescript/
+
+
+---
+
+
+## 🤖 Frameworks - ![](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+
+The main resources we recommend here is:
+- React - The Complete Guide https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+- React's new docs - https://beta.reactjs.org/
+  - ! While this is "just a documentation" there's a lot of information not only about the syntax, but also in general what React is and how to use it.
+
+### 📘 Step 1: Basics
+**🤝 What we exepct from you to know and understand**
+- Setuping a project
+- JSX
+- Syntax
+- What's a component, when and why to create one
+- Functional components
+- Props
+- State
+- The concept of hooks (useState)
+- Conditional rendering
+- Component lifecycles
+
+**💻 Tasks & homework**
+
+🟢 01 - [Register page](tasks/react/register/Readme.md)
+
+---
+
+### 📘 Step 2: Context and hooks
+**🤝 What we exepct from you to know and understand**
+- useEffect
+- useCallback
+- useRef
+- useMemo
+- useReducer
+- Creating custom hooks
+- Context API
+
+**💻 Task**
+
+🟢 02 - [Meme generator](tasks/react/meme-generator/Readme.md)
+
+🟡 03 - [Kanban Board](tasks/react/kanban-board/Readme.md)
+
+🟠 04 - [Access Page](tasks/react/access-page/Readme.md)
+
+--- 
+
+### 📘 Step 3:  State management
+- Why do we need state management
+- MobX
+
+**💻 Task**
+> Coming soon
+
+
+## 🤖 Frameworks - ![](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white)
+> Comming soon
