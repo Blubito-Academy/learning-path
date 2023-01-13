@@ -21,6 +21,10 @@ Understand how VS Code works
 
 ### 📘 Terminal/Command Line
 Know the basics of working with a terminal:
+Depending on your role and division (FE/BE/DevOps) you will need to use the terminal/cmd more or less. At this point, you need to know what this means and be able to do basic actions like navigating through file structure, opening files with different programs, running scripts, etc.
+
+- Command Line Crash Course https://www.youtube.com/watch?v=yz7nYlnXLfE 
+  - We recommend to **at least** go thorugh `1:50 - 19:55`
 - 15+ Terminal Commands Every Developer Must Know https://www.youtube.com/watch?v=CV-ven_rxhw
 
 
@@ -39,6 +43,7 @@ Understand how git works, what's: repository, branch, pushing, pulling, commit m
 ### 📘 HTML & CSS
 
 **🤝 What we expect you to know and understand**
+
 - HTML
   - Most used tags
   - Semantics
@@ -88,13 +93,67 @@ Here you can understand the universal basics of programming before going into Ja
 Here you can take any "big" course so you understand the basics of JS. We have linked a course that we think covers the most important parts nicely and understandably.
 
 **🤝 What we expect you to know and understand**
+
+## JS fundamentals
 - Syntax
 - Data types
-- Objects
+- Scope
+  - global, function
+  - var, let, const
+  - hoisting
+- Comparisons
+- Type conversion, particularly to boolean
+- Logical Operators
+- Conditions
+- Logging and Debugging
+
+## Functions
+- return values of functions
+- null vs. undefined
+- conditional returns
+- parameters & their scope
+- default params
+- destructuring parameters
+- rest operator
+- callback functions
+
+## Objects
+- creating and manipulating objects (adding properties, deleting properties, extracting properties)
+- nesting objects and objects with functions
+- understanding referential vs. primitive types
+- copying objects
+- spread operator
+- destructuring objects and setting default values
+- iterating over object properties/values
+- conditional properties
+- computed properties
+
+## Working with iterables
 - Arrays
 - Functions
+  - creating and manipulating arrays (adding elements, removing elements, finding elements, splitting arrays, joining arrays)
+  - copying arrays
+- Loops (for-in vs. for of)
+- map, filter, reduce
+  - learn when to use map, filter and reduce
+  - functional vs. procedural programming
+
+## Misc
 - Asynchronous JS - Promises, Async/Await
+  - creating promises
+  - then and callbacks vs. async/await syntax
+  - understanding the event loop
 - Error handling
+- Code splitting
+  - ES modules vs. CommonJS modules
+  - dynamic asynchronous imports
+- Closure
+  - understanding what problems the concept solves
+- DOM
+  - understanding the relationship between HTML and the DOM
+  - finding elements in the DOM
+  - attaching and removing event-listeners through the DOM
+  - adding to and removing elements from the DOM
 
 
 **⭐ Plan**
@@ -128,5 +187,21 @@ Here you can take any "big" course so you understand the basics of JS. We have l
 ### 📘 TypeScript
 Understand how TypeScript (TS) works and how you can use it to write better and safer code. We advise taking both courses - while TypeScript Speedrun will help you grasp the basics pretty fast, Understanding TypeScript goes through multiple topics, which you **will** be needing sooner or later.
 
-- TypeScript Speedrun: Crash Course for Beginners https://www.youtube.com/watch?v=YmxwicpROps
+**🤝 What we exepct from you to know and understand**
+- What is TS and why use it
+- Using it in a project (`tsconfig`)
+- Type Annotations
+- Type Inference
+- Type
+- Interface
+- Array Inferred Types
+- Optional Properties
+- Return types of funtions
+- type vs interface example
+- `any`, `unknown`, `never`
+- Ignoring ts-lint issues (ts-ignore)
+
+
+**⭐ Plan**
+- Coding Garden: Intro to TypeScript https://www.youtube.com/watch?v=2ArU2F92rds
 - Understanding TypeScript https://www.udemy.com/course/understanding-typescript/
