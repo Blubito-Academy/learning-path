@@ -180,7 +180,20 @@ Here you can take any "big" course so you understand the basics of JS. We have l
 
 
 ### 📘 TypeScript
-Understand how TypeScript (TS) works and how you can use it to write better and safer code. We advize on taking both courses - while TypeScript Speedrun will help you grasp the basics pretty fast, Understanding TypeScript goes through multiple topics, which you **will** be needing sooner or later.
+**🤝 What we exepct from you to know and understand**
+- What is TS and why use it
+- Using it in a project (`tsconfig`)
+- Type Annotations
+- Type Inference
+- Type
+- Interface
+- Array Inferred Types
+- Optional Properties
+- Return types of funtions
+- type vs interface example
+- `any`, `unknown`, `never`
+- Ignoring ts-lint issues (ts-ignore)
 
-- TypeScript Speedrun: Crash Course for Beginners https://www.youtube.com/watch?v=YmxwicpROps
+**⭐ Plan**
+- Coding Garden: Intro to TypeScript https://www.youtube.com/watch?v=2ArU2F92rds
 - Understanding TypeScript https://www.udemy.com/course/understanding-typescript/
