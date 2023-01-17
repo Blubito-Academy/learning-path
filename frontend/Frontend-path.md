@@ -1,7 +1,7 @@
 # 🗺️ Blubito's Learning Path for Front-end developers 
 
 ## What is this?
-This page is a **guide** for starting to learn to be a frontend developer. The topics are defined in such order that makes most sense going in a straight path from one topic to the next one. If you already have knowledge for specific topic - skip it directly and go to the next one. The resources that we have provided are mainly a reference points, you're free to use whatever resource/lesson/tutorial/etc. you like.
+This page is a **guide** for starting to learn to be a front-end developer. The topics are defined in such an order that makes the most sense going in a straight path from one topic to the next one. If you already know about a specific topic - skip it directly and go to the next one. The resources that we have provided are mainly reference points, you're free to use whatever resource/lesson/tutorial/etc. you like.
 
 ## 📚 Topics - Introduction and basics
 
@@ -20,6 +20,7 @@ Understand how VS Code works
 
 
 ### 📘 Terminal/Command Line
+Know the basics of working with a terminal:
 Depending on your role and division (FE/BE/DevOps) you will need to use the terminal/cmd more or less. At this point, you need to know what this means and be able to do basic actions like navigating through file structure, opening files with different programs, running scripts, etc.
 
 - Command Line Crash Course https://www.youtube.com/watch?v=yz7nYlnXLfE 
@@ -41,7 +42,8 @@ Understand how git works, what's: repository, branch, pushing, pulling, commit m
 
 ### 📘 HTML & CSS
 
-**🤝 What we expect from you to know and understand**
+**🤝 What we expect you to know and understand**
+
 - HTML
   - Most used tags
   - Semantics
@@ -65,7 +67,7 @@ Understand how git works, what's: repository, branch, pushing, pulling, commit m
    - HTML Crash Course For Absolute Beginners https://www.youtube.com/watch?v=UB1O30fR-EE
    - CSS Crash Course For Absolute Beginners https://www.youtube.com/watch?v=yfoY53QXEnI
    - JavaScript Crash Course For Beginners https://www.youtube.com/watch?v=hdI2bqOjy3c
-2. Go through our own internal course to connect everything from the crash courses about HTML & CSS
+2. Go through our internal course to connect everything from the crash courses about HTML & CSS
    - Blubito HTML & CSS Basics Jun 2022 https://web.microsoftstream.com/channel/8d2ca42b-0b0b-4fc4-ac10-9cf2f44575be (you need your Blubito account here)
    - It's an internal course
    - We take a look at some more specific points in addition to everything basic
@@ -77,9 +79,9 @@ Understand how git works, what's: repository, branch, pushing, pulling, commit m
 
 
 ### 📘 Programming basics and Computer Science
-Whatever programming language you choose the main part of programming is always the same - What are Variables? What are Conditional Statements? What are Array’s? What are Loops? What are Errors? Etc., etc... 
+Whatever programming language you choose the main part of programming is always the same - What are Variables? What are Conditional Statements? What are Arrays? What are Loops? What are Errors? Etc., etc... 
 
-Here you can understand the universal basics of programming before going into JavaScript and its own syntax.
+Here you can understand the universal basics of programming before going into JavaScript and its syntax.
 
 - Introduction to Programming and Computer Science - Full Course https://www.youtube.com/watch?v=zOjov-2OZ0E
 
@@ -88,11 +90,12 @@ Here you can understand the universal basics of programming before going into Ja
 
 
 ### 📘 JavaScript
-Here you can take any "big" course so you understand the basics of JS. We have linked a course that we think covers the most important parts in a nice and understandable way.
+Here you can take any "big" course so you understand the basics of JS. We have linked a course that we think covers the most important parts nicely and understandably.
 
-**🤝 What we exepct from you to know and understand**
+**🤝 What we expect you to know and understand**
 
-**JS fundamentals**
+## JS fundamentals
+- Syntax
 - Data types
 - Scope
   - global, function
@@ -104,7 +107,7 @@ Here you can take any "big" course so you understand the basics of JS. We have l
 - Conditions
 - Logging and Debugging
 
-**Functions**
+## Functions
 - return values of functions
 - null vs. undefined
 - conditional returns
@@ -114,7 +117,7 @@ Here you can take any "big" course so you understand the basics of JS. We have l
 - rest operator
 - callback functions
 
-**Objects**
+## Objects
 - creating and manipulating objects (adding properties, deleting properties, extracting properties)
 - nesting objects and objects with functions
 - understanding referential vs. primitive types
@@ -125,8 +128,9 @@ Here you can take any "big" course so you understand the basics of JS. We have l
 - conditional properties
 - computed properties
 
-**Working with iterables**
+## Working with iterables
 - Arrays
+- Functions
   - creating and manipulating arrays (adding elements, removing elements, finding elements, splitting arrays, joining arrays)
   - copying arrays
 - Loops (for-in vs. for of)
@@ -134,8 +138,8 @@ Here you can take any "big" course so you understand the basics of JS. We have l
   - learn when to use map, filter and reduce
   - functional vs. procedural programming
 
-**Misc**
-- Asynchronous JS
+## Misc
+- Asynchronous JS - Promises, Async/Await
   - creating promises
   - then and callbacks vs. async/await syntax
   - understanding the event loop
@@ -151,7 +155,6 @@ Here you can take any "big" course so you understand the basics of JS. We have l
   - attaching and removing event-listeners through the DOM
   - adding to and removing elements from the DOM
 
-
 **⭐ Plan**
 - Jonas Schmedtmann: The Complete JavaScript Course 2023: From Zero to Expert! https://www.udemy.com/course/the-complete-javascript-course/
 
@@ -160,11 +163,11 @@ Here you can take any "big" course so you understand the basics of JS. We have l
 
 
 ### 📘 CSS Advanced
-**🤝 What we exepct from you to know and understand**
+**🤝 What we expect you to know and understand**
 - SASS
 - CSS Variables
 - `.module` usage (CSS/SASS modules)
-- structure and reusage of code
+- structure and reuse of code
 - Conventions
   - BEM CSS
   - CUBE CSS
@@ -181,6 +184,8 @@ Here you can take any "big" course so you understand the basics of JS. We have l
 
 
 ### 📘 TypeScript
+Understand how TypeScript (TS) works and how you can use it to write better and safer code. We advise taking both courses - while TypeScript Speedrun will help you grasp the basics pretty fast, Understanding TypeScript goes through multiple topics, which you **will** be needing sooner or later.
+
 **🤝 What we exepct from you to know and understand**
 - What is TS and why use it
 - Using it in a project (`tsconfig`)
@@ -194,6 +199,7 @@ Here you can take any "big" course so you understand the basics of JS. We have l
 - type vs interface example
 - `any`, `unknown`, `never`
 - Ignoring ts-lint issues (ts-ignore)
+
 
 **⭐ Plan**
 - Coding Garden: Intro to TypeScript https://www.youtube.com/watch?v=2ArU2F92rds
