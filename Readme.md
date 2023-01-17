@@ -5,5 +5,5 @@ This repository is hosting our own learning paths - a somewhat structured way fo
 Checkout our resources
 
 ## Frontend
-- [Learning path](Frontend-path.md)
-- [General resources](Frontend-resources.md)
+- [Learning path](frontend/Frontend-path.md)
+- [General resources](frontend/Frontend-resources.md)
