@@ -7,3 +7,6 @@ Checkout our resources
 ## Frontend
 - [Learning path](Frontend-path.md)
 - [General resources](Frontend-resources.md)
+
+## Frontend
+- [Learning path](Backend-path.md)
