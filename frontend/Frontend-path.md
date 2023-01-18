@@ -3,7 +3,7 @@
 ## What is this?
 This page is a **guide** for starting to learn to be a front-end developer. The topics are defined in such an order that makes the most sense going in a straight path from one topic to the next one. If you already know about a specific topic - skip it directly and go to the next one. The resources that we have provided are mainly reference points, you're free to use whatever resource/lesson/tutorial/etc. you like.
 
-## 📚 Topics
+## 📚 Topics - Introduction and basics
 
 ### 📘 Programs
 Install these programs:
@@ -155,7 +155,6 @@ Here you can take any "big" course so you understand the basics of JS. We have l
   - attaching and removing event-listeners through the DOM
   - adding to and removing elements from the DOM
 
-
 **⭐ Plan**
 - Jonas Schmedtmann: The Complete JavaScript Course 2023: From Zero to Expert! https://www.udemy.com/course/the-complete-javascript-course/
 
@@ -202,6 +201,68 @@ Understand how TypeScript (TS) works and how you can use it to write better and 
 - Ignoring ts-lint issues (ts-ignore)
 
 
+**⭐ Plan**
+- Coding Garden: Intro to TypeScript https://www.youtube.com/watch?v=2ArU2F92rds
+- Understanding TypeScript https://www.udemy.com/course/understanding-typescript/
+
+---
+
+## 🤖 Frameworks - ![](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+
+The main resources we recommend here is:
+- React - The Complete Guide https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+- React's new docs - https://beta.reactjs.org/
+  - ! While this is "just a documentation" there's a lot of information not only about the syntax, but also in general what React is and how to use it.
+
+### 📘 Step 1: Basics
+**🤝 What we exepct from you to know and understand**
+- Setuping a project
+- JSX
+- Syntax
+- What's a component, when and why to create one
+- Functional components
+- Props
+- State
+- The concept of hooks (useState)
+- Conditional rendering
+- Component lifecycles
+
+**💻 Tasks & homework**
+
+🟢 01 - [Register page](tasks/react/register/Readme.md)
+
+---
+
+### 📘 Step 2: Context and hooks
+**🤝 What we exepct from you to know and understand**
+- useEffect
+- useCallback
+- useRef
+- useMemo
+- useReducer
+- Creating custom hooks
+- Context API
+
+**💻 Task**
+
+🟢 02 - [Meme generator](tasks/react/meme-generator/Readme.md)
+
+🟡 03 - [Kanban Board](tasks/react/kanban-board/Readme.md)
+
+🟠 04 - [Access Page](tasks/react/access-page/Readme.md)
+
+--- 
+
+### 📘 Step 3:  State management
+- Why do we need state management
+- MobX
+
+**💻 Task**
+> Coming soon
+
+
+## 🤖 Frameworks - ![](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white)
+> Comming soon
 **⭐ Plan**
 - Coding Garden: Intro to TypeScript https://www.youtube.com/watch?v=2ArU2F92rds
 - Understanding TypeScript https://www.udemy.com/course/understanding-typescript/
