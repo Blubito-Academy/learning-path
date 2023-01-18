@@ -8,5 +8,5 @@ Checkout our resources
 - [Learning path](Frontend-path.md)
 - [General resources](Frontend-resources.md)
 
-## Frontend
+## Backend
 - [Learning path](Backend-path.md)
