@@ -62,3 +62,31 @@ Understand how git works, what's: repository, branch, pushing, pulling, commit m
 
 ---
 
+
+### 📘 Database 
+
+**🤝 What we expect you to know and understand**
+
+- UML
+- Normal forms (FirstNF, SecondNF, ThirdNF & BCNF)
+- SQL (DML/DDL/DQL)
+- Migration & Versioning
+  - Maven
+  - Liquibase
+
+**⭐ Plan**
+1. We will start with an intensive course covering all the basics with the below provided materials. Please go through each topic on your own and try to understand id, if question arise we will discuss them in our sessions.
+2. After the course, on your own, go through our internal course to connect everything we have covered for the day
+    - It's an internal course
+    - UML tutorial for beginners: https://www.tutorialspoint.com/uml/uml_overview.htm
+    - Normal forms explained by Raju: https://www.youtube.com/watch?v=oDZUVti70-Q
+    - Normal forms explained with a short quiz at the end: https://www.geeksforgeeks.org/normal-forms-in-dbms/
+    - SQL (DML/DDL/DQL): https://www.youtube.com/watch?v=p3qvj9hO_Bo
+    - Migration & Versioning
+      - Maven: https://www.youtube.com/watch?v=p0LPfK_oNCM
+      - Liquibase: https://www.youtube.com/watch?v=WPAKj0ygul0&list=PL8LikImwls6IM8Ks9CvpnU4UbcBCJUd3C
+3. Once the full content has been covered, you will then receive a project. We will discuss what you have learned on your own and do some live examples based on each topic
+
+
+---
+
